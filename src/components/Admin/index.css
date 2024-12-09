@@ -1,0 +1,69 @@
+/* Admin Page Styles */
+.admin-page {
+    padding: 50px;
+    background-color: #ffffff;
+    text-align: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.admin-info {
+    margin-bottom: 40px;
+}
+
+.admin-info h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.admin-info p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.admin-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.admin-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #28A745;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 200px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.admin-btn:hover {
+    background-color: #218838;
+}
+
+.admin-btn img {
+    width: 64px;
+    margin-bottom: 10px;
+}
+
+.admin-btn span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.admin-link{
+    text-decoration: none;
+}
+
+.adminimage{
+    height: 200px;
+}

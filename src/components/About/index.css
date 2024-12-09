@@ -1,0 +1,22 @@
+/* About Us Page Styles */
+.about-us-container {
+    padding: 50px;
+    background-color: #f4f4f4;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.about-us-title {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about-us-description {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
